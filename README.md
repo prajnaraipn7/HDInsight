@@ -1,4 +1,4 @@
-# HDInsight
+# Windows HDInsight
 Building an HDInsight Cluster
 
 An Azure subscription.
